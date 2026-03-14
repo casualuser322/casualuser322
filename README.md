@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Backend Engineer | Python | Distributed Systems
+
+Building high-performance backend systems, async pipelines, and scalable infrastructure.
+
+📍 Slovakia (EU) – open to relocation  
+📧 shvartsae@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/andrew-shvarts-60944b267/
+
 <!--
 **casualuser322/casualuser322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
