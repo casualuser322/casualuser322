@@ -9,13 +9,12 @@ Building high-performance backend systems, async pipelines, and scalable infrast
 🔗 LinkedIn: https://www.linkedin.com/in/andrew-shvarts-60944b267/
 
 ## Tech Stack
-
-Languages & Frameworks: Python, FastAPI, Django
-Databases & ORM: PostgreSQL, SQLAlchemy, Redis
-Messaging & Background Jobs: RabbitMQ, Celery
-Architecture: Microservices, Distributed Systems, Async, System Design
-DevOps & CI/CD: Docker, Kubernetes, AWS, CI/CD
-Observability & Testing: Prometheus, Grafana, Sentry, pytest
+**Languages & Frameworks:** Python, FastAPI, Django  
+**Databases & ORM:** PostgreSQL, SQLAlchemy, Redis  
+**Messaging & Background Jobs:** RabbitMQ, Celery  
+**Architecture:** Microservices, Distributed Systems, Async, System Design  
+**DevOps & CI/CD:** Docker, Kubernetes, AWS, CI/CD  
+**Observability & Testing:** Prometheus, Grafana, Sentry, pytest
 
 ## Highlight Projects
 
